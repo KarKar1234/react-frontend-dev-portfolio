@@ -13,7 +13,7 @@ Every part of this website is code which shows how to do the following:
 * Utilizes JSON fetched data
 
 
-This is a fork of: https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/portfolio_mockup.png
+This is a fork of: https://github.com/Dorota1997/react-frontend-dev-portfolio
 
 
 
