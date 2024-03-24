@@ -5,7 +5,8 @@ This project is an example that was built from a forked repo from https://github
 * Toggle through light and dark mode on the title page
 * Uses React to build a vertical timeline showing my experience
 * Minimalistic mobile friendly website
-* Engage with interactive buttons to open popups displaying information about my projects  
+* Engage with interactive buttons to open popups displaying information about my projects
+* Utilizes JSON fetched data    
 
 
 
