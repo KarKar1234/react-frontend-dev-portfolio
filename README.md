@@ -1,6 +1,8 @@
-# Welcome to Karl's Portfolio showcasing React, and Javascript
+# Welcome to Karl's Portfolio
 
-This project is an example that was forked from https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/portfolio_mockup.png. 
+
+
+I developed a website consisting of HTML, CSS, JavaScript, React, and JSON to effectively showcase my skills and experience. The website features responsive design elements, allowing for seamless navigation across various devices. I organized and presented my projects and experiences in an straightforward way, providing details into my capabilities and background. I hope you enjoy the website at 
 
 Every part of this website is code which shows how to do the following:
 
@@ -9,6 +11,9 @@ Every part of this website is code which shows how to do the following:
 * Minimalistic mobile friendly website
 * Engage with interactive buttons to open popups displaying information about my projects
 * Utilizes JSON fetched data
+
+
+This is a fork of: https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/portfolio_mockup.png
 
 
 
