@@ -1,12 +1,14 @@
 # Welcome to Karl's Portfolio showcasing React, and Javascript
 
-This project is an example that was built from a forked repo from https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/portfolio_mockup.png. Every part of this website is code which shows how to do the following:
+This project is an example that was forked from https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/portfolio_mockup.png. 
+
+Every part of this website is code which shows how to do the following:
 
 * Toggle through light and dark mode on the title page
 * Uses React to build a vertical timeline showing my experience
 * Minimalistic mobile friendly website
 * Engage with interactive buttons to open popups displaying information about my projects
-* Utilizes JSON fetched data    
+* Utilizes JSON fetched data
 
 
 
