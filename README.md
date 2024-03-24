@@ -1,4 +1,4 @@
-# Welcome to Karl's Portfolio showcasing React, Javascript along with HTML and CSS.
+# Welcome to Karl's Portfolio showcasing React, and Javascript
 
 This project is an example that was built from a forked repo from https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/portfolio_mockup.png. Every part of this website is code which shows how to do the following:
 
