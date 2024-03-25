@@ -1,0 +1,113 @@
+{
+    "basic_info": {
+      "description_header": "Objective",
+      "description": "My objective is to transition into either a data analyst position or front-end developer role. Bringing a diverse background in data analyst and committed to continous learning and embracing new challenges, I am actively seeking full-time opportunities in both data analysis and front-end roles.",
+      "resume_file": "images/Karl_Resume.pdf", 
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Movie Search Engine",
+        "startDate": "2023",
+        "description": "As my final project for the Front-End developer bootcamp,  I integrated HTML, CSS, and Javascript to create a visually appealing and responsive website. Utilizing an API database, it provides an intuitive interface for users to search for films.",
+        "images": [
+          "images/portfolio/animal-shelter/movieengine.png",
+          "images/portfolio/animal-shelter/thebatmansearch.png"
+        ],
+        "url": "https://karkar1234.github.io/Movie-Search-Engine-Project/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Caleo Cafe",
+        "startDate": "2023",
+        "description": "I teamed up with Caleo Cafe Angola to build a dynamic website tailored to their brand and customer needs. Through meticulous design, we crafted an intuitive platform that highlights their menu offerings and seamless ordering.",
+        "images": [
+          "images/portfolio/photography/caleohomepage.png",
+          "images/portfolio/photography/caleodrinks.png"
+        ],
+        "url": "http://www.caleocafeangola.com/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Train Car Counter",
+        "startDate": "2023",
+        "description": "One of my first projects, I developed a straightforward train car counter application using HTML, CSS, and JavaScript. The application allows users to increment the count of people in a train car with a click.",
+        "images": [
+          "images/portfolio/adventure/traincartitle.png",
+          "images/portfolio/adventure/traincarpic.png"
+        ],
+        "url": "https://karkar1234.github.io/Train-Car-Counter-Project/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+          
+         
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "General Assembly",
+        "title": "Front-End/Web Developer Bootcamp",
+        "years": "04.2023 - 06.2023",
+        "mainTech": [
+          "Chicago, IL"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "JSON"
+        ]
+      },
+      {
+        "company": "Loyola University Chicago",
+        "title": "B.S. Psychology, Minor Spanish",
+        "years": "06.2017",
+        "mainTech": [
+          "Chicago, IL"
+        ],
+        "technologies": [
+          
+        ]
+      }
+    ]
+  }
