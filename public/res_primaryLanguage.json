@@ -12,14 +12,14 @@
     },
     "projects": [
       {
-        "title": "Movie Search Engine",
-        "startDate": "2023",
-        "description": "As one of my first projects during the Front-End developer bootcamp, I integrated HTML, CSS, and JavaScript to create a visually appealing and responsive website. Utilizing an API database, it provides an intuitive interface for users to search for films. Please note that due to its early stage of development, the site is currently not optimized for mobile devices.",
+        "title": "Calculator Project",
+        "startDate": "2024",
+        "description": "This React-based project implements a basic calculator with functionalities for adding, subtracting, multiplying, and dividing numbers. It utilizes the useReducer hook for state management and provides a clear and user-friendly interface.",
         "images": [
-          "images/portfolio/animal-shelter/movieengine.png",
-          "images/portfolio/animal-shelter/thebatmansearch.png"
+          "images/portfolio/adventure/Calculator-main-pic.png",
+          "images/portfolio/adventure/Calculator-second-pic.png"
         ],
-        "url": "https://karkar1234.github.io/Movie-Search-Engine-Project/",
+        "url": "https://karkar1234.github.io/Calculator-App/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -32,6 +32,10 @@
           {
             "class": "devicon-css3-plain",
             "name": "CSS"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
           }
         ]
       },
@@ -56,14 +60,14 @@
         ]
       },
       {
-        "title": "Train Car Counter",
+        "title": "Movie Search Engine",
         "startDate": "2023",
-        "description": "One of my first projects, I developed a straightforward train car counter application using HTML, CSS, and JavaScript. The application allows users to increment the count of people in a train car with a click.",
+        "description": "As one of my first projects during the Front-End developer bootcamp, I integrated HTML, CSS, and JavaScript to create a visually appealing and responsive website. Utilizing an API database, it provides an intuitive interface for users to search for films. Please note that due to its early stage of development, the site is currently not optimized for mobile devices.",
         "images": [
-          "images/portfolio/adventure/traincartitle.png",
-          "images/portfolio/adventure/traincarpic.png"
+          "images/portfolio/animal-shelter/movieengine.png",
+          "images/portfolio/animal-shelter/thebatmansearch.png"
         ],
-        "url": "https://karkar1234.github.io/Train-Car-Counter-Project/",
+        "url": "https://karkar1234.github.io/Movie-Search-Engine-Project/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
